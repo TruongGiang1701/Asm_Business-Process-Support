@@ -1,0 +1,66 @@
+ProductID,ProductName,ProductGroupID,Description,Price,Cost,StockQuantity,SupplierID,SKU,WarrantyPeriod
+1,Phone Model A,1,High-end smartphone,500,350,100,1,PHA1234,2 years
+2,Phone Model B,1,Budget smartphone,200,150,200,1,PHB5678,1 year
+3,Laptop Model A,2,Gaming laptop,1000,750,50,2,LPA1234,2 years
+4,Laptop Model B,2,Ultrabook laptop,1200,800,30,2,LPB5678,3 years
+5,Tablet Model A,3,High-end tablet,600,400,150,3,TBA1234,2 years
+6,Tablet Model B,3,Budget tablet,300,200,100,3,TBB5678,1 year
+7,Headphones Model A,4,Noise-cancelling headphones,150,100,200,4,HPA1234,1 year
+8,Headphones Model B,4,Wireless headphones,100,70,300,4,HPB5678,1 year
+9,Smartwatch Model A,5,High-end smartwatch,250,180,100,5,SWA1234,1 year
+10,Smartwatch Model B,5,Budget smartwatch,150,100,200,5,SWB5678,1 year
+11,Phone Case A,6,Durable phone case,20,10,500,1,PCA1234,1 year
+12,Phone Case B,6,Stylish phone case,25,15,400,1,PCB5678,1 year
+13,Laptop Bag A,7,Protective laptop bag,40,25,200,2,LBA1234,1 year
+14,Laptop Bag B,7,Stylish laptop bag,50,30,150,2,LBB5678,1 year
+15,Tablet Cover A,8,Durable tablet cover,30,20,300,3,TCA1234,1 year
+16,Tablet Cover B,8,Stylish tablet cover,35,25,250,3,TCB5678,1 year
+17,Earbuds A,9,Wireless earbuds,80,50,400,4,EBA1234,1 year
+18,Earbuds B,9,Budget wireless earbuds,60,40,300,4,EBB5678,1 year
+19,Fitness Tracker A,10,High-end fitness tracker,100,70,200,5,FTA1234,1 year
+20,Fitness Tracker B,10,Budget fitness tracker,50,30,400,5,FTB5678,1 year
+21,Phone Model C,1,Mid-range smartphone,300,200,150,1,PHC7890,1 year
+22,Laptop Model C,2,Office laptop,900,650,80,2,LPC7890,2 years
+23,Tablet Model C,3,Mid-range tablet,450,300,120,3,TBC7890,2 years
+24,Headphones Model C,4,Over-ear headphones,120,80,250,4,HPC7890,1 year
+25,Smartwatch Model C,5,Advanced smartwatch,300,200,150,5,SWC7890,1 year
+26,Phone Case C,6,Transparent phone case,15,8,600,1,PCC7890,1 year
+27,Laptop Bag C,7,Leather laptop bag,70,50,100,2,LBC7890,1 year
+28,Tablet Cover C,8,Fancy tablet cover,40,30,200,3,TCC7890,1 year
+29,Earbuds C,9,Waterproof earbuds,90,60,350,4,EBC7890,1 year
+30,Fitness Tracker C,10,Basic fitness tracker,40,25,450,5,FTC7890,1 year
+31,Phone Model D,1,Flagship smartphone,1000,700,50,1,PHD9012,2 years
+32,Laptop Model D,2,Gaming laptop,1500,1000,40,2,LPD9012,3 years
+33,Tablet Model D,3,Premium tablet,800,550,70,3,TBD9012,2 years
+34,Headphones Model D,4,Wireless over-ear headphones,200,140,150,4,HPD9012,1 year
+35,Smartwatch Model D,5,Next-gen smartwatch,400,300,100,5,SWD9012,2 years
+36,Phone Case D,6,Shockproof phone case,30,20,400,1,PCD9012,1 year
+37,Laptop Bag D,7,Waterproof laptop bag,100,70,80,2,LBD9012,2 years
+38,Tablet Cover D,8,Luxury tablet cover,60,40,150,3,TCD9012,1 year
+39,Earbuds D,9,High-fidelity earbuds,120,80,200,4,EBD9012,1 year
+40,Fitness Tracker D,10,Pro fitness tracker,150,100,300,5,FTD9012,2 years
+41,Monitor Model A,17,Full HD monitor,200,150,80,6,MONA1001,2 years
+42,Keyboard Model A,15,Mechanical keyboard,100,70,150,7,KEYA1001,1 year
+43,Mouse Model A,16,Wireless mouse,50,30,200,8,MOUA1001,1 year
+44,Printer Model A,19,Color printer,300,200,60,9,PRIA1001,2 years
+45,Webcam Model A,20,HD webcam,80,50,120,10,WEBA1001,1 year
+46,Smart Home Device A,21,Smart light bulb,25,15,300,11,SHDA1001,1 year
+47,VR Headset A,22,Virtual reality headset,400,300,40,12,VRA1001,2 years
+48,Digital Camera A,23,DSLR camera,1000,700,50,13,DCA1001,2 years
+49,3D Printer A,24,3D printing device,1500,1200,30,14,3DA1001,2 years
+50,Projector A,25,HD projector,600,400,70,15,PROA1001,2 years
+51,Smart Thermostat A,26,Smart temperature control,150,100,100,16,STA1001,1 year
+52,Home Security System A,27,Security camera set,500,350,40,17,HSSA1001,2 years
+53,Streaming Device A,28,Media streaming device,60,40,200,18,SDA1001,1 year
+54,Drone A,29,Quadcopter drone,800,600,30,19,DRA1001,2 years
+55,Game Console A,30,Home gaming console,400,300,50,20,GCA1001,2 years
+56,Monitor Model B,17,4K UHD monitor,300,250,50,6,MONB1002,2 years
+57,Keyboard Model B,15,Wireless keyboard,120,90,100,7,KEYB1002,1 year
+58,Mouse Model B,16,Gaming mouse,70,50,150,8,MOUB1002,1 year
+59,Printer Model B,19,Laser printer,400,300,40,9,PRIB1002,2 years
+60,Webcam Model B,20,4K webcam,100,70,90,10,WEBB1002,1 year
+61,Smart TV Model A,21,4K  Ultra HD Smart TV,0,600,40,6,STVA1001,2 years
+62,Smart TV Model B,18,Full HD Smart TV,0,350,60,6,STVA1001,2 years
+63,Bluetooth Speaker Model A,19,Portable Bluetooth speaker,0,80,150,7,",BTS1001",1 year
+64,Wireless Charger Model A,20,Fast wireless charger,0,25,200,8,WCA1001,1 year
+65,Home Air Purifier Model A,20,Air purifier with HEPA filter,0,180,50,9,HAPA1001,2 year
